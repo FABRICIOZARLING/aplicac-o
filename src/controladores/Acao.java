@@ -20,8 +20,7 @@ public class Acao {
 					p.setProduto(nome);
 					p.setQuantidade(quantidade);
 					p.setValor(valor);
-					p.setDados(p);
-					
+					p.setDados(p);			
 				
 					
 				} catch (Exception e) {
